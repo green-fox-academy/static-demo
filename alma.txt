@@ -3,3 +3,5 @@ korte
 banon
 barack
 dinnye
+eper
+szolo
