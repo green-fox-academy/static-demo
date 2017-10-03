@@ -1,6 +1,8 @@
 alma
 korte
 barack
+banon
+zsiraf
 dinnye
 eper
 szolo
